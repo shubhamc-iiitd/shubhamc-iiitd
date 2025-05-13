@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Shubham Choudhury!
 
-Welcome to my GitHub! I'm a PhD candidate in Computational Biology at IIIT-Delhi, working on machine learning-based tools for understanding long non-coding RNAs and other biological systems. My academic and research journey bridges wet lab experience with computational modeling, including transcriptomics, QSAR modeling, and deep learning applications in bioinformatics.
+Welcome to my GitHub! I'm a PhD candidate in Computational Biology at IIIT-Delhi, working on machine learning-based tools for understanding long non-coding RNAs and other biological systems. My academic and research journey bridges wet lab experience with computational modeling, including transcriptomics, RNA informatics, and deep learning applications in bioinformatics.
 
 ---
 
@@ -39,7 +39,7 @@ Microarray and RNA-seq analysis, WGS and metagenomics, QSAR modeling, Front/Back
 - 💊 **Antibp3**: Predicting antibacterial peptides | _Antibiotics_ [doi](https://doi.org/10.3390/antibiotics13020168)
 - 🧪 **CoronaVR**: Epitope and therapeutic resource for SARS-CoV-2 | _Frontiers in Microbiology_ [doi](https://doi.org/10.3389/fmicb.2020.01858)
 
-For the full list, check my [Google Scholar](https://scholar.google.com/) or [ORCID](https://orcid.org/0000-0002-4509-4683) profile.
+For the full list, check my [Google Scholar](https://scholar.google.com/citations?user=pUOPVlUAAAAJ&hl=en&authuser=1) or [ORCID](https://orcid.org/0000-0002-4509-4683) profile.
 
 ---
 
