@@ -49,9 +49,11 @@ For the full list, check my [Google Scholar](https://scholar.google.com/citation
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Let's Connect  
 📫 Email: [shubhamc@iiitd.ac.in](mailto:shubhamc@iiitd.ac.in)  
-🔗 ORCID: [0000-0002-4509-4683](https://orcid.org/0000-0002-4509-4683)
+🔗 ORCID: [0000-0002-4509-4683](https://orcid.org/0000-0002-4509-4683)  
+💼 LinkedIn: [Shubham Choudhury](https://www.linkedin.com/in/shubham-choudhury-b22677120/)  
+💻 GitHub: [github.com/shubhamc-iiitd](https://github.com/shubhamc-iiitd)
 
 ---
 
